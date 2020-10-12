@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\bin\Debug\ConsumingWebAPIDemo.exe.config
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\bin\Debug\ConsumingWebAPIDemo.exe
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\bin\Debug\ConsumingWebAPIDemo.pdb
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\obj\Debug\ConsumingWebAPIDemo.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\obj\Debug\ConsumingWebAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\obj\Debug\ConsumingWebAPIDemo.csproj.CopyComplete
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\obj\Debug\ConsumingWebAPIDemo.exe
+C:\Users\pc\source\repos\ConsumingWebAPIDemo\ConsumingWebAPIDemo\obj\Debug\ConsumingWebAPIDemo.pdb
